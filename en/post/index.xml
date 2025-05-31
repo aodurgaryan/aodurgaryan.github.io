@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | My Site</title>
+    <link>https://aodurgaryan.github.io/en/post/</link>
+      <atom:link href="https://aodurgaryan.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aodurgaryan.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Blog</title>
+      <link>https://aodurgaryan.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://aodurgaryan.github.io/en/post/05/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://aodurgaryan.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary--may-29&#34;&gt;📅 Weekly Summary — May 29&lt;/h2&gt;
+&lt;p&gt;The last week of May — a time to wrap up the month and finish important tasks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧾 Submitted my &lt;strong&gt;course project on digital product business analysis&lt;/strong&gt; – received great feedback.&lt;/li&gt;
+&lt;li&gt;🔍 Conducted a comparative analysis of &lt;strong&gt;ERP systems&lt;/strong&gt; – it really helped me understand their logic more deeply.&lt;/li&gt;
+&lt;li&gt;📚 Started learning the &lt;strong&gt;basic concepts of econometrics&lt;/strong&gt; – challenging but incredibly interesting.&lt;/li&gt;
+&lt;li&gt;✍️ Updated my resume and LinkedIn profile – time to get ready for internships.&lt;/li&gt;
+&lt;li&gt;🎬 Watched a motivational film about education – now I’m energized for summer!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;May was a busy month, and now it&amp;rsquo;s time for new goals and opportunities!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://aodurgaryan.github.io/en/post/04/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://aodurgaryan.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary--may-22&#34;&gt;📅 Weekly Summary — May 22&lt;/h2&gt;
+&lt;p&gt;The fourth week of the month was steady and even a bit inspiring:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📑 Prepared a presentation on &lt;strong&gt;&amp;ldquo;Information Systems in Management&amp;rdquo;&lt;/strong&gt; – it turned out concise and clear.&lt;/li&gt;
+&lt;li&gt;🧩 Figured out how the &lt;strong&gt;ETL process&lt;/strong&gt; works – now I’m eager to build something of my own.&lt;/li&gt;
+&lt;li&gt;📊 Created my first &lt;strong&gt;infographic on business analytics&lt;/strong&gt; – looks neat and easy to understand.&lt;/li&gt;
+&lt;li&gt;🧘‍♀️ Attended a yoga session in the park – a great mental reset.&lt;/li&gt;
+&lt;li&gt;🧠 Found a podcast about career paths in IT – listening to it on walks, lots of insights.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Step by step, I’m getting closer to my goals!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://aodurgaryan.github.io/en/post/03/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://aodurgaryan.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary--may-15&#34;&gt;📅 Weekly Summary — May 15&lt;/h2&gt;
+&lt;p&gt;This week was intense — full of studies, deadlines, but also discoveries:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 Learned how to work with &lt;strong&gt;dashboards in Power BI&lt;/strong&gt; – now I can present data clearly and beautifully.&lt;/li&gt;
+&lt;li&gt;📚 Read an article about &lt;strong&gt;digital twins in business&lt;/strong&gt; – planning to use this in my coursework.&lt;/li&gt;
+&lt;li&gt;📈 Tried building a &lt;strong&gt;financial model for an online store&lt;/strong&gt; – it turned out simple but informative.&lt;/li&gt;
+&lt;li&gt;🤝 Took part in a team project presentation – both interesting and valuable experience.&lt;/li&gt;
+&lt;li&gt;☕️ Survived a sleepless night before a deadline – but now I can finally breathe out.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A week of &amp;ldquo;study-work-coffee&amp;rdquo; rhythm — but it was definitely worth it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://aodurgaryan.github.io/en/post/02/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://aodurgaryan.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary--may-8&#34;&gt;📅 Weekly Summary — May 8&lt;/h2&gt;
+&lt;p&gt;The second week of May flew by — it was packed with activities, and here’s what I accomplished:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📘 Explored the core principles of &lt;strong&gt;SQL queries&lt;/strong&gt; – now SELECT, JOIN, and GROUP BY feel much easier.&lt;/li&gt;
+&lt;li&gt;💡 Conducted a mini-study on &lt;strong&gt;competitive environment analysis&lt;/strong&gt; – turned out to be really engaging.&lt;/li&gt;
+&lt;li&gt;🧠 Watched a webinar on &lt;strong&gt;financial modeling&lt;/strong&gt; – got lots of new ideas for future projects.&lt;/li&gt;
+&lt;li&gt;📤 Submitted an essay for the &lt;strong&gt;Business Informatics&lt;/strong&gt; course – feeling proud of that.&lt;/li&gt;
+&lt;li&gt;🎉 Celebrated &lt;strong&gt;Victory Day&lt;/strong&gt; – it was heartfelt and atmospheric.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Study, projects, and a bit of rest – the formula for a great week.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://aodurgaryan.github.io/en/post/01/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://aodurgaryan.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary--may-1&#34;&gt;📅 Weekly Summary — May 1&lt;/h2&gt;
+&lt;p&gt;The first week of May turned out to be productive and a bit hectic:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📈 Got introduced to &lt;strong&gt;business modeling&lt;/strong&gt; – explored the Business Model Canvas framework.&lt;/li&gt;
+&lt;li&gt;📊 Learned basic visualizations in &lt;strong&gt;Power BI&lt;/strong&gt; – now my reports look clear and professional.&lt;/li&gt;
+&lt;li&gt;💼 Analyzed a case on &lt;strong&gt;digital transformation in a logistics company&lt;/strong&gt; during a seminar – very engaging!&lt;/li&gt;
+&lt;li&gt;📚 Took detailed notes on &lt;strong&gt;project management in IT&lt;/strong&gt;, which will come in handy later.&lt;/li&gt;
+&lt;li&gt;🌿 Participated in a community clean-up day – recharged and spent time outdoors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A useful and dynamic week — let’s keep up the momentum!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

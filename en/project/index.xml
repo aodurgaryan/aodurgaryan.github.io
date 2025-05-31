@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | My Site</title>
+    <link>https://aodurgaryan.github.io/en/project/</link>
+      <atom:link href="https://aodurgaryan.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aodurgaryan.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>https://aodurgaryan.github.io/en/project/</link>
+    </image>
+    
+    <item>
+      <title>Academic Website with Hugo Academic</title>
+      <link>https://aodurgaryan.github.io/en/project/hugo/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://aodurgaryan.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-academic-website-with-hugo-academic--why-you-need-it-and-how-to-build-it&#34;&gt;🧑‍🔬 Academic Website with Hugo Academic — Why You Need It and How to Build It&lt;/h2&gt;
+&lt;p&gt;Creating a personal website as a researcher or student is not just a trend — it’s a key step toward professional development and building a scientific reputation. One of the best tools for this is the &lt;strong&gt;Hugo&lt;/strong&gt; framework with the &lt;strong&gt;Academic&lt;/strong&gt; theme (now known as &lt;a href=&#34;https://github.com/wowchemy/starter-hugo-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Scholar&lt;/a&gt;).&lt;/p&gt;
+&lt;h3 id=&#34;-why-should-a-researcher-have-a-personal-website&#34;&gt;❓ Why Should a Researcher Have a Personal Website?&lt;/h3&gt;
+&lt;p&gt;A personal academic site serves multiple purposes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📂 &lt;strong&gt;Portfolio&lt;/strong&gt;: publications, projects, presentations, awards — all in one place.&lt;/li&gt;
+&lt;li&gt;💼 &lt;strong&gt;Resume&lt;/strong&gt;: a modern alternative to static PDF CVs, accessible 24/7.&lt;/li&gt;
+&lt;li&gt;📢 &lt;strong&gt;Scientific communication&lt;/strong&gt;: share thoughts, blog posts, and ideas — even while your article is still in progress.&lt;/li&gt;
+&lt;li&gt;🌍 &lt;strong&gt;Online presence&lt;/strong&gt;: the site helps position yourself as a professional, attract collaborations, and get invitations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-why-choose-hugo-academic&#34;&gt;⚙️ Why Choose Hugo Academic?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; is an open-source, powerful theme for the Hugo static site generator. It offers ready-to-use components for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✍️ Publications (with BibTeX support)&lt;/li&gt;
+&lt;li&gt;🛠 Research projects&lt;/li&gt;
+&lt;li&gt;📅 Events and courses&lt;/li&gt;
+&lt;li&gt;🧾 Academic resume and profile&lt;/li&gt;
+&lt;li&gt;📬 Contact forms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All this comes in a modern, responsive design.&lt;/p&gt;
+&lt;h3 id=&#34;-how-to-create-a-site-with-hugo-academic&#34;&gt;🛠 How to Create a Site with Hugo Academic&lt;/h3&gt;
+&lt;p&gt;Here is a step-by-step guide:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Install Hugo&lt;/strong&gt;:
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;brew install hugo   &lt;span class=&#34;c1&#34;&gt;# macOS&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt install hugo   &lt;span class=&#34;c1&#34;&gt;# Ubuntu&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
